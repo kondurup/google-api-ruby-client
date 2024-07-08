@@ -8,6 +8,7 @@ coverage
 doc
 heckling
 pkg
+.git
 specdoc
 wiki
 .google-api.yaml
